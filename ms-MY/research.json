@@ -1,0 +1,31 @@
+{
+  "hero": {
+        "category": "Democracy begins with transparency",
+        "header": "Supporting Research",
+        "description": "ElectionData.MY aspires to be a trusted source of Malaysian election data—so that citizens can use it with confidence. To earn that trust, every single dataset used on this site has been open-sourced and subjected to rigorous expert scrutiny, via the process of peer review. This page documents the academic-grade research and data curation powering the site."
+    },
+    "published": "Published",
+    "preprint": "Preprint",
+    "coming_soon": "Coming Soon",
+    "paper_1": {
+      "title": "The Malaysian Election Corpus: Federal & State-Level Election Results from 1955 to 2025",
+      "authors": "Thevananthan (2025)",
+      "venue": "Nature (Scientific Data)"
+    },
+    "paper_2": {
+      "title": "The Malaysian Election Corpus: Electoral Maps and Cartograms from 1954 to 2025",
+      "authors": "Thevananthan and Chacko (2026)",
+      "venue": "Preprint (arXiv)"
+    },
+    "paper_3": {
+      "title": "The Malaysian Election Corpus: Pseudonymised, Linked Voter Rolls from 2008 to 2025",
+      "authors": "Thevananthan et. al (2026)",
+      "venue": "Coming soon (ETA: End-Mar 2026)"
+    },
+    "paper_4": {
+      "title": "The Malaysian Election Corpus: Polling Centre and Queue-Level Results from 2008 to 2025",
+      "authors": "Thevananthan and Koo (2026)",
+      "venue": "Coming soon (ETA: End-Mar 2026)"
+    }
+  }
+  

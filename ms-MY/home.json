@@ -1,0 +1,102 @@
+{
+    "hero": {
+      "category": "Democracy begins with transparency",
+      "header": "Open election data for Malaysia",
+      "og_description": "A public record of Malaysia's democracy since 1955. Independent, neutral, and freely accessible to all.",
+      "description": "A public record of Malaysia's democracy since 1955.\nIndependent, neutral, and freely accessible to all.",
+      "api_docs": "API Docs",
+      "data_catalogue": "Data Catalogue"
+    },
+    "tab": {
+      "seats": "Seats",
+      "candidates": "Candidates",
+      "parties": "Parties",
+      "elections": "Elections"
+    },
+    "latest": {
+      "title": "Explore the latest results",
+      "click_to_explore": "Go to dashboard"
+    },
+    "explore": {
+    "title": "Slice, dice, and visualise the data",
+    "seats": {
+      "title": "Seats",
+      "description": "Results, boundaries, and demographics for all 222 Parliament and 600 DUN seats"
+    },
+    "candidates": {
+      "title": "Candidates",
+      "description": "Track record of every person who's ever contested an election in Malaysia"
+    },
+    "parties": {
+      "title": "Parties & Coalitions",
+      "description": "Seat and vote shares for all parties and coalitions since 1955"
+    },
+    "elections": {
+      "title": "Elections",
+      "description": "Results and analytics for all federal and state general elections since 1955"
+    },
+    "byelections": {
+      "title": "By-Elections",
+      "description": "Results and analytics for all 276 by-elections since the first in 1957"
+    },
+    "redelineation": {
+      "title": "Redelineation",
+      "description": "How boundaries were changed in the 19 delimitation exercises since 1954"
+    }
+  },
+    "trust": {
+      "title": "Data you can trust",
+      "research": {
+        "title": "Backed by world-class research",
+        "description": "Our compilation of Malaysia's election data has undergone rigorous peer-review at leading journals, ensuring accuracy and reliability you can trust.",
+        "link": "Check out the research"
+      },
+      "neutral": {
+        "title": "Independent and Neutral",
+        "description": "ElectionData.MY receives no funding and has no affiliations. It exists to make Malaysia's election data open and accessible. Nothing more, nothing less.",
+        "link": "Read our mission statement"
+      }
+    },
+    "header": "Explore the entire electoral history for your area",
+    "title": "Complete electoral history for ",
+    "search_seat": "Search for a seat (Eg. Bayan Baru)",
+    "search_election": "Search for a federal or state general election",
+    "boundaries_years": "Delimitation Years",
+    "breakdown_voters": "A breakdown of the {{ number }} voters in ",
+    "gender_age_distr": "Voter Pyramid",
+    "votertype": "Voter type",
+    "sex": "Sex",
+    "age": "Age",
+    "ethnic": "Ethnicity",
+    "barmeter": {
+      "regular": "Regular",
+      "early": "Early",
+      "postal": "Absent",
+      "male": "Male",
+      "female": "Female",
+      "18_20": "18-20",
+      "21_39": "21-39",
+      "40_59": "40-59",
+      "60_79": "60-79",
+      "80_plus": "80+",
+      "malay": "Malay",
+      "chinese": "Chinese",
+      "indian": "Indian",
+      "other": "Others",
+      "bumi_sabah": "Bumiputera Sabah",
+      "bumi_sarawak": "Bumiputera Sarawak",
+      "orang_asli": "Orang Asli"
+    },
+    "lineage": {
+      "title": "Geo-History",
+      "year": "Delimitation Year",
+      "parlimen": "Parliament",
+      "n_duns": "Number of DUNs",
+      "duns": "DUNs",
+      "overlap_pct": "% of Current Seat",
+      "dun": "DUN",
+      "area_overlap": "% of Current Seat",
+      "area": "Area (km²)"
+    },
+    "attribution_tindak": "This geospatial analysis was produced in collaboration with [Tindak Malaysia](https://www.tindakmalaysia.org)."
+  }

@@ -1,0 +1,16 @@
+{
+    "hero": {
+        "category": "Democracy begins with transparency",
+        "header": "Parties & Coalitions",
+        "description": "Explore the electoral history of every party and coalition that has ever contested Malaysian elections. Track seat and vote shares across decades, and understand their political journey."
+    },
+    "header": "Explore any party's entire electoral history",
+    "search_party": "Search for a political party or coalition",
+    "title": "<strong>{{ party }}'s history</strong> in ",
+    "no_data_dun": "{{ party }} has never contested state elections in {{ state }}",
+    "no_data_dun_mys": "Please select a state; DUN-level results cannot be summarised at national level",
+    "no_data_dun_wp": "There are no results as {{ state }} is governed directly by the federal government",
+    "no_data_parlimen": "{{ party }} has never contested Parliament seats in {{ state }}",
+    "formed_gov": "Formed the Government",
+    "formed_opp": "Formed the Opposition"
+}

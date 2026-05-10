@@ -1,0 +1,16 @@
+{
+    "hero": {
+        "category": "Democracy begins with transparency",
+        "header": "Candidates",
+        "description": "Search for any candidate who has stood for election in Malaysia. View the seats they contested, the parties they represented, and their electoral results across time."
+    },
+    "header": "Explore the electoral history of anyone who's ever competed in an election",
+    "search_candidate": "Search for a candidate's name",
+    "title": "Complete electoral history for ",
+    "no_data_dun": "{{ name }} has never competed in State elections",
+    "no_data_parliament": "{{ name }} has never competed in Parliament elections",
+    "won": "Won",
+    "won_uncontested": "Won Uncontested",
+    "lost": "Lost",
+    "lost_deposit": "Lost Deposit"
+}

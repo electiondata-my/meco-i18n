@@ -1,0 +1,15 @@
+{
+    "output": "Output",
+    "disclaimer": "*Bukan terminal / konsol sebenar.",
+    "500": {
+        "title": "Aduh, sesuatu yang tidak kena telah berlaku.",
+        "description": "Kami memohon maaf atas kejadian ini.",
+        "reason": "Kod ralat: 500 -- Ralat pelayan"
+    },
+    "404": {
+        "title": "404 — Halaman tidak dijumpai",
+        "header": "Oh tidak! Kami dah cari segala tempat.",
+        "description": "Halaman ini tidak wujud — mungkin telah dialih, dipadam, atau URL anda mengandungi ralat.",
+        "cta": "Kembali ke laman utama"
+    }
+}

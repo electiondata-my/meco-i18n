@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "category": "Democracy begins with transparency",
+    "header": "Impact of Redelineation",
+    "description": "In Malaysia, electoral boundary drawing exercises are conducted separately for 3 units, namely Peninsular Malaysia, Sabah, and Sarawak respectively. This page allows you to explore exactly what changes were made to your voting area."
+  },
+  "where_seats_new": "Where did the new boundaries come from?",
+  "where_seats_old": "Where did the old boundaries go to?",
+  "new_constituency": "New Boundaries",
+  "old_constituency": "Old Boundaries",
+  "status": {
+    "unchanged": {
+      "title": "Unchanged",
+      "description": "A seat is 'Unchanged' if there was no meaningful change in boundaries, even if the seat was renamed."
+    },
+    "changed": {
+      "title": "Changed",
+      "description": "A seat is 'Changed' if there was a meaningful change in boundaries, regardless of whether or not it was renamed."
+    },
+    "new": {
+      "title": "New",
+      "description": "A seat is 'New' if it was created from splitting an old seat, or merging two or more old seats together."
+    },
+    "abolished": {
+      "title": "Abolished",
+      "description": "A seat is 'Abolished' if there is no new seat where a majority of its territory overlaps with the old seat."
+    }
+  },
+  "constituency_redistribution": "Explore the impact of redelineation on any seat!",
+  "filters": "Filters",
+  "filter": {
+    "area": "Region",
+    "year": "Year",
+    "filter": "Election Type"
+  },
+  "new": "New",
+  "old": "Old",
+  "table": {
+    "seat_new": "New Seat",
+    "parent": "Old Seat",
+    "perc_from_parent": "What % comes from this old seat?",
+    "seat_old": "Old Seat",
+    "child": "New Seat",
+    "perc_to_child": "What % went to this new seat?",
+    "seat_transferred_from": "seat transferred from",
+    "seat_transferred": "Seat transferred"
+  },
+  "attribution_tindak": "Geospatial data source: [Thevananthan and Chacko, 2026](https://www.electiondata.my/research)"
+}
