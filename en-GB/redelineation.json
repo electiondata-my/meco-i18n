@@ -10,6 +10,7 @@
   "old_constituency": "Old Boundaries",
   "map_explorer": {
     "title": "Explore the map before and after redelineation",
+    "slide": "Slide",
     "slider_label": "Adjust map comparison",
     "tabs": {
       "compare": "Compare"
