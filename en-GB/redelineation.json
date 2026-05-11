@@ -20,8 +20,8 @@
     },
     "legend": {
       "title": "Boundaries",
-      "primary": "Selected map",
-      "secondary": "Reference map"
+      "primary": "New Boundaries",
+      "secondary": "Old Boundaries"
     }
   },
   "status": {
