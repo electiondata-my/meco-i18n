@@ -37,7 +37,7 @@
       "description": "A seat is 'Abolished' if there is no new seat where a majority of its territory overlaps with the old seat."
     }
   },
-  "constituency_redistribution": "Explore the impact of redelineation on a specific seat",
+  "constituency_redistribution": "Explore the changes made to a specific seat",
   "filters": "Filters",
   "filter": {
     "area": "Region",
