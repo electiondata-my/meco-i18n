@@ -1,0 +1,38 @@
+name: Upload i18n to R2
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.json"
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Install wrangler
+        run: npm install -g wrangler@latest
+
+      - name: Upload changed files to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+        run: |
+          # Handle initial commit (no parent) vs regular push
+          if git rev-parse HEAD~1 >/dev/null 2>&1; then
+            changed=$(git diff --name-only HEAD~1 HEAD -- '*.json' '*/*.json')
+          else
+            changed=$(find . -name '*.json' -not -path './.git/*' | sed 's|^\./||')
+          fi
+
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            echo "Uploading i18n/$file ..."
+            wrangler r2 object put "meco-internal/i18n/$file" \
+              --file "$file" \
+              --content-type "application/json"
+          done <<< "$changed"
