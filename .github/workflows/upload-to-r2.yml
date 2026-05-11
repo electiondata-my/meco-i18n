@@ -21,7 +21,7 @@ jobs:
       - name: Install wrangler
         run: npm install -g wrangler@latest
 
-      - name: Upload changed files to R2
+      - name: Upload changed files to R2 and purge cache
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
@@ -33,10 +33,22 @@ jobs:
             changed=$(find . -name '*.json' -not -path './.git/*' | sed 's|^\./||')
           fi
 
+          ZONE_ID=$(curl -s "https://api.cloudflare.com/client/v4/zones?name=electiondata.my" \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" | jq -r '.result[0].id')
+
           while IFS= read -r file; do
             [ -z "$file" ] && continue
+
             echo "Uploading i18n/$file ..."
             wrangler r2 object put "meco-internal/i18n/$file" \
               --file "$file" \
-              --content-type "application/json"
+              --content-type "application/json" \
+              --remote
+
+            echo "Purging cache for i18n/$file ..."
+            curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/purge_cache" \
+              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "{\"files\":[\"https://internal.electiondata.my/i18n/$file\"]}"
+            echo
           done <<< "$changed"
