@@ -8,6 +8,22 @@
   "where_seats_old": "Where did the old boundaries go to?",
   "new_constituency": "New Boundaries",
   "old_constituency": "Old Boundaries",
+  "map_explorer": {
+    "title": "Explore the map before and after redelineation",
+    "new_map": "New Map",
+    "old_map": "Old Map",
+    "slider_label": "Adjust map comparison",
+    "tabs": {
+      "compare": "Compare",
+      "new_map": "New Map",
+      "old_map": "Old Map"
+    },
+    "legend": {
+      "title": "Boundaries",
+      "primary": "Selected map",
+      "secondary": "Reference map"
+    }
+  },
   "status": {
     "unchanged": {
       "title": "Unchanged",
@@ -26,7 +42,7 @@
       "description": "A seat is 'Abolished' if there is no new seat where a majority of its territory overlaps with the old seat."
     }
   },
-  "constituency_redistribution": "Explore the impact of redelineation on any seat!",
+  "constituency_redistribution": "Explore the impact of redelineation on a specific seat",
   "filters": "Filters",
   "filter": {
     "area": "Region",

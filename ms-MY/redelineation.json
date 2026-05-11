@@ -8,6 +8,22 @@
   "where_seats_old": "Where did the old boundaries go to?",
   "new_constituency": "New Boundaries",
   "old_constituency": "Old Boundaries",
+  "map_explorer": {
+    "title": "Terokai peta kawasan sebelum dan selepas persempadanan semula",
+    "new_map": "Peta Baharu",
+    "old_map": "Peta Lama",
+    "slider_label": "Laraskan perbandingan peta",
+    "tabs": {
+      "compare": "Banding",
+      "new_map": "Peta Baharu",
+      "old_map": "Peta Lama"
+    },
+    "legend": {
+      "title": "Sempadan",
+      "primary": "Peta dipilih",
+      "secondary": "Peta rujukan"
+    }
+  },
   "status": {
     "unchanged": {
       "title": "Unchanged",
@@ -26,7 +42,7 @@
       "description": "A seat is 'Abolished' if there is no new seat where a majority of its territory overlaps with the old seat."
     }
   },
-  "constituency_redistribution": "Explore the impact of redelineation on any seat!",
+  "constituency_redistribution": "Explore the impact of redelineation on a specific seat",
   "filters": "Filters",
   "filter": {
     "area": "Region",
