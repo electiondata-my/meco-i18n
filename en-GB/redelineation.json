@@ -10,18 +10,12 @@
   "old_constituency": "Old Boundaries",
   "map_explorer": {
     "title": "Explore the map before and after redelineation",
-    "new_map": "New Map",
-    "old_map": "Old Map",
     "slider_label": "Adjust map comparison",
     "tabs": {
-      "compare": "Compare",
-      "new_map": "New Map",
-      "old_map": "Old Map"
+      "compare": "Compare"
     },
     "legend": {
-      "title": "Boundaries",
-      "primary": "New Boundaries",
-      "secondary": "Old Boundaries"
+      "title": "Boundaries"
     }
   },
   "status": {

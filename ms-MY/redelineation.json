@@ -10,18 +10,12 @@
   "old_constituency": "Old Boundaries",
   "map_explorer": {
     "title": "Terokai peta kawasan sebelum dan selepas persempadanan semula",
-    "new_map": "Peta Baharu",
-    "old_map": "Peta Lama",
     "slider_label": "Laraskan perbandingan peta",
     "tabs": {
-      "compare": "Banding",
-      "new_map": "Peta Baharu",
-      "old_map": "Peta Lama"
+      "compare": "Banding"
     },
     "legend": {
-      "title": "Sempadan",
-      "primary": "Sempadan Baharu",
-      "secondary": "Sempadan Lama"
+      "title": "Sempadan"
     }
   },
   "status": {
