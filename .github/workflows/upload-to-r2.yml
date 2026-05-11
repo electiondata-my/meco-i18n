@@ -14,19 +14,13 @@ jobs:
         with:
           fetch-depth: 2
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-
-      - name: Install wrangler
-        run: npm install -g wrangler@latest
-
       - name: Upload changed files to R2 and purge cache
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_INTERNAL_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_CACHE_PURGE_TOKEN: ${{ secrets.CF_CACHE_PURGE_TOKEN }}
         run: |
-          # Handle initial commit (no parent) vs regular push
           if git rev-parse HEAD~1 >/dev/null 2>&1; then
             changed=$(git diff --name-only HEAD~1 HEAD -- '*.json' '*/*.json')
           else
@@ -34,20 +28,19 @@ jobs:
           fi
 
           ZONE_ID=$(curl -s "https://api.cloudflare.com/client/v4/zones?name=electiondata.my" \
-            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" | jq -r '.result[0].id')
+            -H "Authorization: Bearer $CF_CACHE_PURGE_TOKEN" | jq -r '.result[0].id')
 
           while IFS= read -r file; do
             [ -z "$file" ] && continue
 
             echo "Uploading i18n/$file ..."
-            wrangler r2 object put "meco-internal/i18n/$file" \
-              --file "$file" \
-              --content-type "application/json" \
-              --remote
+            aws s3 cp "$file" "s3://meco-internal/i18n/$file" \
+              --endpoint-url "https://$CF_ACCOUNT_ID.r2.cloudflarestorage.com" \
+              --content-type "application/json"
 
             echo "Purging cache for i18n/$file ..."
             curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/purge_cache" \
-              -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+              -H "Authorization: Bearer $CF_CACHE_PURGE_TOKEN" \
               -H "Content-Type: application/json" \
               -d "{\"files\":[\"https://internal.electiondata.my/i18n/$file\"]}"
             echo
