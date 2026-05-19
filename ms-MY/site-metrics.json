@@ -4,6 +4,7 @@
     "description": "Metrik penggunaan ElectionData.MY bagi portal, pembina kueri, katalog data, dan API."
   },
   "description": "Selaras dengan prinsip ketelusan yang kami junjungi, kami menerbitkan metrik penggunaan penting secara terbuka",
+  "trend": "Trend",
   "daily": "Hari Ini",
   "total": "Jumlah",
   "loading": "Memuatkan…",

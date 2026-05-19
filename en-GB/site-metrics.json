@@ -4,6 +4,7 @@
     "description": "Usage metrics for ElectionData.MY across the website, query builder, data catalogue, and Open API."
   },
   "description": "In line with our commitment to transparency, we publish key usage metrics openly",
+  "trend": "Trend",
   "daily": "Today",
   "total": "Total",
   "loading": "Loading…",
