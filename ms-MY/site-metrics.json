@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "title": "Metrik Portal",
+    "description": "Metrik penggunaan ElectionData.MY bagi portal, pembina kueri, katalog data, dan API."
+  },
+  "daily": "Harian",
+  "total": "Jumlah",
+  "loading": "Memuatkan…",
+  "no_data": "Tiada data",
+  "chart": {
+    "page_views": "Paparan Halaman",
+    "queries_built": "Kueri Dibina",
+    "dataset_downloads": "Muat Turun Set Data",
+    "api_users": "Pengguna API",
+    "api_hits": "Permintaan API",
+    "data_lake_hits": "Permintaan Data Lake"
+  },
+  "error": {
+    "load_failed": "Gagal memuatkan metrik portal"
+  }
+}
