@@ -3,10 +3,17 @@
     "title": "Metrik Portal",
     "description": "Metrik penggunaan ElectionData.MY bagi portal, pembina kueri, katalog data, dan API."
   },
+  "description": "Selaras dengan prinsip ketelusan yang kami junjungi, kami menerbitkan metrik penggunaan penting secara terbuka",
   "daily": "Hari Ini",
   "total": "Jumlah",
   "loading": "Memuatkan…",
   "no_data": "Tiada data",
+  "period": {
+    "7d": "7 hari",
+    "30d": "30 hari",
+    "90d": "90 hari",
+    "all": "Semua"
+  },
   "chart": {
     "page_views": "Paparan Halaman",
     "queries_built": "Kueri Dibina",
