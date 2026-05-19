@@ -3,7 +3,7 @@
     "title": "Site Metrics",
     "description": "Usage metrics for ElectionData.MY across the website, query builder, data catalogue, and Open API."
   },
-  "daily": "Daily",
+  "daily": "Today",
   "total": "Total",
   "loading": "Loading…",
   "no_data": "No data available",

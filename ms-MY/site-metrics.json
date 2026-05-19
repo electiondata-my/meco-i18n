@@ -3,7 +3,7 @@
     "title": "Metrik Portal",
     "description": "Metrik penggunaan ElectionData.MY bagi portal, pembina kueri, katalog data, dan API."
   },
-  "daily": "Harian",
+  "daily": "Hari Ini",
   "total": "Jumlah",
   "loading": "Memuatkan…",
   "no_data": "Tiada data",
