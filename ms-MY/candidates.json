@@ -1,16 +1,15 @@
 {
     "hero": {
-        "category": "Democracy begins with transparency",
-        "header": "Candidates",
-        "description": "Search for any candidate who has stood for election in Malaysia. View the seats they contested, the parties they represented, and their electoral results across time."
+        "category": "Ketelusan asas demokrasi",
+        "header": "Calon-calon",
+        "description": "Cari mana-mana calon yang pernah bertanding dalam pilihan raya di Malaysia. Lihat kerusi yang ditandingi, parti yang diwakili, serta rekod lengkap keputusan pilihan raya mereka."
     },
-    "header": "Explore the electoral history of anyone who's ever competed in an election",
-    "search_candidate": "Search for a candidate's name",
-    "title": "Complete electoral history for ",
-    "no_data_dun": "{{ name }} has never competed in State elections",
-    "no_data_parliament": "{{ name }} has never competed in Parliament elections",
-    "won": "Won",
-    "won_uncontested": "Won Uncontested",
-    "lost": "Lost",
-    "lost_deposit": "Lost Deposit"
+    "search_candidate": "Cari nama seorang calon pilihan raya",
+    "title": "Sejarah penuh pilihan raya bagi ",
+    "no_data_dun": "{{ name }} tidak pernah bertanding dalam Pilihan Raya bagi kerusi DUN",
+    "no_data_parliament": "{{ name }} tidak pernah bertanding dalam Pilihan Raya bagi kerusi Parlimen",
+    "won": "Menang",
+    "won_uncontested": "Menang Tanpa Bertanding",
+    "lost": "Kalah",
+    "lost_deposit": "Hilang Deposit"
 }
