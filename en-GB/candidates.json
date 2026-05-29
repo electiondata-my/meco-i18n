@@ -4,7 +4,7 @@
         "header": "Candidates",
         "description": "Search for any candidate who has stood for election in Malaysia. View the seats they contested, the parties they represented, and their electoral results across time."
     },
-    "search_candidate": "Search for a candidate's name",
+    "search_candidate": "Search for a candidate (e.g. Lim Kit Siang)",
     "title": "Complete electoral history for ",
     "no_data_dun": "{{ name }} has never competed in State elections",
     "no_data_parliament": "{{ name }} has never competed in Parliament elections",

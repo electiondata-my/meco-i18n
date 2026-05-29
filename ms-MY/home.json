@@ -53,14 +53,16 @@
       },
       "neutral": {
         "title": "Bebas dan Berkecuali",
-        "description": "ElectionData.MY tidak menerima sebarang pembiayaan dan tidak mempunyai sebarang afiliasi. Ia wujud untuk membekalkan data pilihan raya Malaysia secara terbuka dan mudah. Tidak lebih, tidak kurang.",
+        "description": "ElectionData.MY tidak menerima pembiayaan dan tiada sebarang afiliasi. Ia wujud untuk membekalkan data pilihan raya Malaysia secara terbuka dan mudah. Tidak lebih, tidak kurang.",
         "link": "Baca pernyataan misi kami"
       }
     },
     "header": "Terokai sejarah pilihan raya penuh kawasan anda",
     "title": "Sejarah pilihan raya penuh bagi ",
-    "search_seat": "Cari sebuah kerusi (cth. Bayan Baru)",
-    "search_election": "Cari pilihan raya umum persekutuan atau negeri",
+    "search_seat": "Cari kerusi Parlimen atau DUN (cth. Bayan Baru)",
+    "search_candidate": "Cari nama seorang calon (cth. Lim Kit Siang)",
+    "search_party": "Cari parti atau gabungan (cth. PH, UMNO)",
+    "search_election": "Cari pilihan raya persekutuan atau negeri (cth. GE-15)",
     "boundaries_years": "Tahun Persempadanan",
     "breakdown_voters": "Pecahan {{ number }} pengundi di ",
     "gender_age_distr": "Piramid Pengundi",
