@@ -75,7 +75,7 @@
         "about": "Mengenai Kami",
         "background": "Prinsip Asas",
         "site_metrics": "Metrik Portal",
-        "copyright": "Dikhaskan untuk Domain Awam (CC0)",
+        "copyright": "Didedikasikan untuk Domain Awam (CC0)",
         "documentation": "Dokumentasi"
     },
     "toast": {
@@ -107,11 +107,11 @@
     "voting_statistics": "Statistik Ringkasan",
     "majority": "Majoriti",
     "majority_%": "Majoriti (%)",
-    "voter_turnout": "Peratusan Keluar Mengundi",
-    "voter_turnout_%": "Peratusan Keluar Mengundi (%)",
+    "voter_turnout": "Keluar Mengundi",
+    "voter_turnout_%": "Keluar Mengundi (%)",
     "rejected_votes": "Undi Rosak",
     "rejected_votes_%": "Undi Rosak (%)",
-    "num_voters": "Bilangan pengundi",
+    "num_voters": "Bilangan Pengundi",
     "peninsular": "Semenanjung Malaysia",
     "sabah": "Sabah",
     "sarawak": "Sarawak",
