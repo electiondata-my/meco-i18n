@@ -1,11 +1,11 @@
 {
     "hero": {
         "category": "Ketelusan asas demokrasi",
-        "header": "Calon-calon",
-        "description": "Cari mana-mana calon yang pernah bertanding dalam pilihan raya di Malaysia. Lihat kerusi yang ditandingi, parti yang diwakili, serta rekod lengkap keputusan pilihan raya mereka."
+        "header": "Calon",
+        "description": "Cari mana-mana calon yang pernah bertanding dalam pilihan raya di Malaysia. Lihat kerusi yang ditandingi, parti yang diwakili, serta rekod lengkap keputusan mereka."
     },
     "search_candidate": "Cari nama seorang calon pilihan raya",
-    "title": "Sejarah penuh pilihan raya bagi ",
+    "title": "Sejarah pilihan raya penuh bagi ",
     "no_data_dun": "{{ name }} tidak pernah bertanding dalam Pilihan Raya bagi kerusi DUN",
     "no_data_parliament": "{{ name }} tidak pernah bertanding dalam Pilihan Raya bagi kerusi Parlimen",
     "won": "Menang",
