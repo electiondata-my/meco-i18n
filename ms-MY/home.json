@@ -1,7 +1,7 @@
 {
     "hero": {
       "category": "Ketelusan asas demokrasi",
-      "header": "Data pilihan raya terbuka untuk Malaysia",
+      "header": "Data terbuka pilihan raya Malaysia",
       "og_description": "Rekod awam demokrasi Malaysia sejak 1955. Bebas, berkecuali, dan percuma untuk semua.",
       "description": "Rekod awam demokrasi Malaysia sejak 1955.\nBebas, berkecuali, dan percuma untuk semua.",
       "api_docs": "Dokumentasi API",
@@ -21,7 +21,7 @@
     "title": "Analisis dan visualisasi data",
     "seats": {
       "title": "Kerusi",
-      "description": "Keputusan, sempadan, dan demografi untuk 222 kerusi Parlimen dan 600 kerusi DUN"
+      "description": "Keputusan, sempadan, dan demografi untuk semua kerusi Parlimen dan DUN"
     },
     "candidates": {
       "title": "Calon",
@@ -33,11 +33,11 @@
     },
     "elections": {
       "title": "Pilihan Raya",
-      "description": "Keputusan dan analitik untuk semua pilihan raya persekutuan dan negeri sejak 1955"
+      "description": "Keputusan untuk semua pilihan raya persekutuan dan negeri sejak 1955"
     },
     "byelections": {
       "title": "Pilihan Raya Kecil",
-      "description": "Keputusan dan analitik untuk kesemua 276 pilihan raya kecil sejak yang pertama pada 1957"
+      "description": "Keputusan untuk kesemua 276 pilihan raya kecil sejak yang pertama pada 1957"
     },
     "redelineation": {
       "title": "Persempadanan",
