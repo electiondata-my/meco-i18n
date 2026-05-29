@@ -50,6 +50,8 @@
         "blog": "Blog",
         "trivia": "Trivia",
         "map": "Map",
+        "tools": "Tools",
+        "query_builder": "Query Builder",
         "catalogue": "Data Catalogue",
         "openapi": "API Docs",
         "redelineation": "Redelineation",
@@ -68,12 +70,12 @@
         "open_data": "Open Data",
         "use_the_data": "Tools",
         "query_builder": "Query Builder",
+        "download": "Data Catalogue",
+        "open_api": "Open API",
         "about": "About",
         "background": "Core Principles",
         "site_metrics": "Site Metrics",
         "copyright": "Dedicated to the Public Domain (CC0)",
-        "download": "Data Catalogue",
-        "open_api": "Open API",
         "documentation": "Supporting Research"
     },
     "toast": {

@@ -50,9 +50,11 @@
         "blog": "Blog",
         "trivia": "Trivia",
         "map": "Peta",
+        "tools": "Perkakasan",
+        "query_builder": "Pembina Kueri",
         "catalogue": "Katalog Data",
         "openapi": "Dokumentasi API",
-        "redelineation": "Persempadanan Semula",
+        "redelineation": "Persempadanan",
         "theme": "Tema",
         "light": "Cerah",
         "dark": "Gelap"
@@ -68,12 +70,12 @@
         "open_data": "Data Terbuka",
         "use_the_data": "Perkakasan",
         "query_builder": "Pembina Kueri",
+        "download": "Katalog Data",
+        "open_api": "API Terbuka",
         "about": "Mengenai Kami",
         "background": "Prinsip Asas",
         "site_metrics": "Metrik Portal",
         "copyright": "Dikhaskan untuk Domain Awam (CC0)",
-        "download": "Katalog Data",
-        "open_api": "API Terbuka",
         "documentation": "Dokumentasi"
     },
     "toast": {
