@@ -12,5 +12,6 @@
     "no_data_dun_wp": "There are no results as {{ state }} is governed directly by the federal government",
     "no_data_parlimen": "{{ party }} has never contested Parliament seats in {{ state }}",
     "formed_gov": "Formed the Government",
-    "formed_opp": "Formed the Opposition"
+    "formed_opp": "Formed the Opposition",
+    "known_as": "Known As"
 }

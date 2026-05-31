@@ -1,16 +1,17 @@
 {
     "hero": {
-        "category": "Democracy begins with transparency",
-        "header": "Parties & Coalitions",
-        "description": "Explore the electoral history of every party and coalition that has ever contested Malaysian elections. Track seat and vote shares across decades, and understand their political journey."
+        "category": "Ketelusan asas demokrasi",
+        "header": "Parti & Gabungan",
+        "description": "Terokai sejarah pilihan raya setiap parti dan gabungan yang pernah bertanding dalam pilihan raya di Malaysia. Jejaki nisbah kerusi dan undi mereka, maka fahamilah perjalanan politik mereka."
     },
-    "header": "Explore any party's entire electoral history",
-    "search_party": "Search for a political party or coalition",
-    "title": "<strong>{{ party }}'s history</strong> in ",
-    "no_data_dun": "{{ party }} has never contested state elections in {{ state }}",
-    "no_data_dun_mys": "Please select a state; DUN-level results cannot be summarised at national level",
-    "no_data_dun_wp": "There are no results as {{ state }} is governed directly by the federal government",
-    "no_data_parlimen": "{{ party }} has never contested Parliament seats in {{ state }}",
-    "formed_gov": "Formed the Government",
-    "formed_opp": "Formed the Opposition"
+    "header": "Terokai sejarah pilihan raya penuh mana-mana parti",
+    "search_party": "Cari parti politik atau gabungan",
+    "title": "<strong>Sejarah {{ party }}</strong> di ",
+    "no_data_dun": "{{ party }} tidak pernah bertanding dalam pilihan raya negeri di {{ state }}",
+    "no_data_dun_mys": "Sila pilih sebuah negeri; keputusan peringkat DUN tidak boleh dirumuskan di peringkat nasional",
+    "no_data_dun_wp": "Tiada keputusan kerana {{ state }} ditadbir secara langsung oleh kerajaan persekutuan",
+    "no_data_parlimen": "{{ party }} tidak pernah bertanding bagi kerusi Parlimen di {{ state }}",
+    "formed_gov": "Membentuk Kerajaan",
+    "formed_opp": "Membentuk Pembangkang",
+    "known_as": "Dikenali Sebagai"
 }
