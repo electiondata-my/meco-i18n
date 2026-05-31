@@ -1,13 +1,13 @@
 {
   "hero": {
-    "category": "Democracy begins with transparency",
-    "header": "Impact of Redelineation",
-    "description": "In Malaysia, electoral boundary drawing exercises are conducted separately for 3 units, namely Peninsular Malaysia, Sabah, and Sarawak respectively. This page allows you to explore exactly what changes were made to your voting area."
+    "category": "Ketelusan asas demokrasi",
+    "header": "Kesan Persempadanan Semula",
+    "description": "Di Malaysia, urusan persempadanan semula kawasan pilihan raya dilaksanakan secara berasingan bagi tiga unit, iaitu Semenanjung Malaysia, Sabah, dan Sarawak. Halaman ini membolehkan anda menerokai perubahan yang berlaku kepada sempadan kawasan mengundi anda secara terperinci."
   },
-  "where_seats_new": "Where did the new boundaries come from?",
-  "where_seats_old": "Where did the old boundaries go to?",
-  "new_constituency": "New Boundaries",
-  "old_constituency": "Old Boundaries",
+  "where_seats_new": "Dari mana datangnya kawasan baharu?",
+  "where_seats_old": "Ke mana perginya kawasan lama?",
+  "new_constituency": "Sempadan Baharu",
+  "old_constituency": "Sempadan Lama",
   "map_explorer": {
     "title": "Terokai peta kawasan sebelum dan selepas persempadanan semula",
     "slide": "Leret",
@@ -21,40 +21,40 @@
   },
   "status": {
     "unchanged": {
-      "title": "Unchanged",
-      "description": "A seat is 'Unchanged' if there was no meaningful change in boundaries, even if the seat was renamed."
+      "title": "Tidak Berubah",
+      "description": "Sebuah kerusi dianggap 'Tidak Berubah' jika tiada perubahan ketara pada sempadannya, walaupun nama kerusi tersebut telah ditukar."
     },
     "changed": {
-      "title": "Changed",
-      "description": "A seat is 'Changed' if there was a meaningful change in boundaries, regardless of whether or not it was renamed."
+      "title": "Berubah",
+      "description": "Sebuah kerusi dianggap 'Berubah' jika terdapat perubahan ketara pada sempadannya, sama ada nama kerusi tersebut ditukar ataupun tidak."
     },
     "new": {
-      "title": "New",
-      "description": "A seat is 'New' if it was created from splitting an old seat, or merging two or more old seats together."
+      "title": "Baharu",
+      "description": "Sebuah kerusi dianggap 'Baharu' jika ia diwujudkan melalui pemecahan sebuah kerusi lama atau penggabungan dua atau lebih kerusi lama."
     },
     "abolished": {
-      "title": "Abolished",
-      "description": "A seat is 'Abolished' if there is no new seat where a majority of its territory overlaps with the old seat."
+      "title": "Dimansuhkan",
+      "description": "Sebuah kerusi dianggap 'Dimansuhkan' jika tiada kerusi baharu yang sebahagian besar kawasannya bertindih dengan kerusi lama tersebut."
     }
   },
-  "constituency_redistribution": "Explore the changes made to a specific seat",
-  "filters": "Filters",
+  "constituency_redistribution": "Terokai perubahan yang berlaku bagi mana-mana kerusi",
+  "filters": "Penapis",
   "filter": {
-    "area": "Region",
-    "year": "Year",
-    "filter": "Election Type"
+    "area": "Wilayah",
+    "year": "Tahun",
+    "filter": "Jenis Pilihan Raya"
   },
-  "new": "New",
-  "old": "Old",
+  "new": "Baharu",
+  "old": "Lama",
   "table": {
-    "seat_new": "New Seat",
-    "parent": "Old Seat",
-    "perc_from_parent": "What % comes from this old seat?",
-    "seat_old": "Old Seat",
-    "child": "New Seat",
-    "perc_to_child": "What % went to this new seat?",
-    "seat_transferred_from": "seat transferred from",
-    "seat_transferred": "Seat transferred"
+    "seat_new": "Kerusi Baharu",
+    "parent": "Kerusi Lama",
+    "perc_from_parent": "Berapa % yang datang daripada kerusi lama ini?",
+    "seat_old": "Kerusi Lama",
+    "child": "Kerusi Baharu",
+    "perc_to_child": "Berapa % yang pergi kepada kerusi baharu ini?",
+    "seat_transferred_from": "kerusi dipindahkan daripada",
+    "seat_transferred": "Kerusi dipindahkan"
   },
-  "attribution_tindak": "Geospatial data source: [Thevananthan and Chacko, 2026](https://www.electiondata.my/research)"
+  "attribution_tindak": "Sumber data geospatial: [Thevananthan dan Chacko, 2026](https://www.electiondata.my/research)"
 }
