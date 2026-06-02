@@ -44,5 +44,5 @@
       "area_overlap": "% of Current Seat",
       "area": "Area (km²)"
     },
-    "attribution_tindak": "Geospatial data source: [Thevananthan and Chacko, 2026](https://www.electiondata.my/research)"
+    "attribution_boundary_data": "[Boundary data source](https://arxiv.org/abs/2512.24211)"
   }
