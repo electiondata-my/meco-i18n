@@ -115,6 +115,6 @@
     "peninsular": "Peninsular Malaysia",
     "sabah": "Sabah",
     "sarawak": "Sarawak",
-    "attribution_tindak": "Geospatial data source: [Thevananthan and Chacko, 2026](https://www.electiondata.my/research)",
+    "attribution_boundary_data": "[Geospatial data source](https://arxiv.org/abs/2512.24211)",
     "trigger_test": "a"
 }

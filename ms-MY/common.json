@@ -115,6 +115,6 @@
     "peninsular": "Semenanjung Malaysia",
     "sabah": "Sabah",
     "sarawak": "Sarawak",
-    "attribution_tindak": "Sumber data geospatial: [Thevananthan dan Chacko, 2026](https://www.electiondata.my/research)",
+    "attribution_boundary_data": "[Sumber data sempadan](https://arxiv.org/abs/2512.24211)",
     "trigger_test": "b"
 }

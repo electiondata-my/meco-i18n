@@ -56,5 +56,5 @@
     "seat_transferred_from": "seat transferred from",
     "seat_transferred": "Seat transferred"
   },
-  "attribution_tindak": "Geospatial data source: [Thevananthan and Chacko, 2026](https://www.electiondata.my/research)"
+  "attribution_boundary_data": "[Boundary data source](https://arxiv.org/abs/2512.24211)"
 }
