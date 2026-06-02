@@ -42,7 +42,7 @@
   "filter": {
     "area": "Region",
     "year": "Year",
-    "filter": "Election Type"
+    "type": "Boundary Level"
   },
   "new": "New",
   "old": "Old",

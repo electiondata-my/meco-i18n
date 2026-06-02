@@ -42,7 +42,7 @@
   "filter": {
     "area": "Wilayah",
     "year": "Tahun",
-    "filter": "Jenis Pilihan Raya"
+    "type": "Jenis Sempadan"
   },
   "new": "Baharu",
   "old": "Lama",
