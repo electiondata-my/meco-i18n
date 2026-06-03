@@ -118,5 +118,7 @@
     "sabah": "Sabah",
     "sarawak": "Sarawak",
     "attribution_boundary_data": "[Sumber data sempadan](https://arxiv.org/abs/2512.24211)",
+    "table": "Jadual",
+    "chart": "Carta",
     "trigger_test": "b"
 }
