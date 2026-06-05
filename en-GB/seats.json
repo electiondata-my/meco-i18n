@@ -2,7 +2,7 @@
     "hero": {
       "category": "Democracy begins with transparency",
       "header": "Electoral Constituencies",
-      "description": "Search for your seat, and discover its entire electoral history. From detailed election results, to boundary changes, to voter demographics—it's right here at your fingertips."
+      "description": "Search for your seat, and discover its entire electoral history. From detailed election results, to boundary changes, to voter demographics - it's here at your fingertips."
     },
     "header": "Explore the entire electoral history for your area",
     "title": "Complete election history of ",
@@ -30,8 +30,18 @@
       "indian": "Indian",
       "other": "Others",
       "bumi_sabah": "Bumiputera Sabah",
+      "bumi_sabah)other": "Other Bumiputera Sabah",
       "bumi_sarawak": "Bumiputera Sarawak",
-      "orang_asli": "Orang Asli"
+      "bumi_sarawak_other": "Other Bumiputera Sarawak",
+      "orang_asli": "Orang Asli",
+      "iban": "Iban",
+      "bidayuh": "Bidayuh",
+      "melanau": "Melanau",
+      "kadazan": "Kadazan",
+      "dusun": "Dusun",
+      "murut": "Murut",
+      "bajau": "Bajau",
+      "suluk": "Suluk"
     },
     "lineage": {
       "title": "Geo-History",
