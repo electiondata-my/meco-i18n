@@ -99,6 +99,5 @@
       "dun": "DUN",
       "area_overlap": "% of Current Seat",
       "area": "Area (km²)"
-    },
-    "attribution_tindak": "This geospatial analysis was produced in collaboration with [Tindak Malaysia](https://www.tindakmalaysia.org)."
+    }
   }
