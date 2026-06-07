@@ -5,7 +5,7 @@
       "description": "Search for your seat, and discover its entire electoral history. From detailed election results, to boundary changes, to voter demographics - it's here at your fingertips."
     },
     "header": "Explore the entire electoral history for your area",
-    "title": "Complete election history of ",
+    "title": "Complete electoral history of ",
     "search_seat": "Search for a seat (e.g. Bayan Baru)",
     "boundaries_years": "Delimitation Years",
     "breakdown_voters": "A breakdown of the {{ number }} voters in ",
