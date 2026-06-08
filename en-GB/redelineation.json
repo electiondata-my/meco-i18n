@@ -7,7 +7,9 @@
   "where_seats_new": "Where did the new boundaries come from?",
   "where_seats_old": "Where did the old boundaries go to?",
   "new_constituency": "New Boundaries",
+  "new_constituency_mobile": "New",
   "old_constituency": "Old Boundaries",
+  "old_constituency_mobile": "Old",
   "map_explorer": {
     "title": "Explore the map before and after redelineation",
     "slide": "Slide",

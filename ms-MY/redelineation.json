@@ -7,7 +7,9 @@
   "where_seats_new": "Dari mana datangnya kawasan baharu?",
   "where_seats_old": "Ke mana perginya kawasan lama?",
   "new_constituency": "Sempadan Baharu",
+  "new_constituency_mobile": "Baharu",
   "old_constituency": "Sempadan Lama",
+  "old_constituency_mobile": "Lama",
   "map_explorer": {
     "title": "Terokai peta kawasan sebelum dan selepas persempadanan semula",
     "slide": "Leret",
