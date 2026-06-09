@@ -1,8 +1,9 @@
 {
   "hero": {
         "category": "Democracy begins with transparency",
-        "header": "Supporting Research",
-        "description": "ElectionData.MY aspires to be a trusted source of Malaysian election data—so that citizens can use it with confidence. To earn that trust, every single dataset used on this site has been open-sourced and subjected to rigorous expert scrutiny, via the process of peer review. This page documents the academic-grade research and data curation powering the site."
+        "header": "Kajian Akademik",
+        "description": "ElectionData.MY beraspirasi menjadi sumber data pilihan raya Malaysia yang boleh dipercayai—agar rakyat boleh menggunakannya dengan penuh keyakinan. Untuk mencapai hasrat itu, setiap set data di laman ini telah diterbitkan secara terbuka dan dinilai dengan teliti oleh pakar melalui proses semakan rakan sebaya (peer review). Halaman ini mendokumentasikan kajian akademik di sebalik laman ini."
+   
     },
     "published": "Published",
     "preprint": "Preprint",

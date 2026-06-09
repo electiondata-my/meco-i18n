@@ -47,12 +47,12 @@
     "trust": {
       "title": "Data you can trust",
       "research": {
-        "title": "Backed by world-class research",
-        "description": "Our compilation of Malaysia's election data has undergone rigorous peer-review at leading journals, ensuring accuracy and reliability you can trust.",
+        "title": "Backed by rigorous research",
+        "description": "Our compilation of Malaysia's election data has undergone (and will continue to undergo) rigorous peer-review at leading journals, ensuring accuracy and reliability you can trust.",
         "link": "Check out the research"
       },
       "neutral": {
-        "title": "Independent and Neutral",
+        "title": "Independent and neutral",
         "description": "ElectionData.MY receives no funding and has no affiliations. It exists to make Malaysia's election data open and accessible. Nothing more, nothing less.",
         "link": "Read our mission statement"
       }
