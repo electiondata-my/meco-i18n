@@ -14,9 +14,10 @@
     "votertype": "Jenis Pengundi",
     "sex": "Jantina",
     "age": "Umur",
+    "all-ages": "Semua",
     "ethnic": "Etnik",
     "ethnic_groups": {
-      "overall": "Semua Pengundi",
+      "all-ethnicities": "Semua",
       "malay": "Melayu",
       "chinese": "Cina",
       "indian": "India",

@@ -14,9 +14,10 @@
     "votertype": "Voter type",
     "sex": "Sex",
     "age": "Age",
+    "all-ages": "All",
     "ethnic": "Ethnicity",
     "ethnic_groups": {
-      "overall": "Overall",
+      "all-ethnicities": "All",
       "malay": "Malay",
       "indian": "Indian",
       "chinese": "Chinese",
