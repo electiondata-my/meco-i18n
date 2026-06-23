@@ -36,6 +36,7 @@
       "murut": "Murut",
       "bidayuh": "Bidayuh",
       "iban": "Iban",
+      "kedayan": "Kedayan",
       "malay-melanau": "Malay-Melanau",
       "orang-ulu": "Orang Ulu"
     },
@@ -60,6 +61,7 @@
       "bumi_sarawak_other": "Other Bumiputera Sarawak",
       "orang_asli": "Orang Asli",
       "iban": "Iban",
+      "kedayan": "Kedayan",
       "bidayuh": "Bidayuh",
       "melanau": "Melanau",
       "kadazan": "Kadazan",
