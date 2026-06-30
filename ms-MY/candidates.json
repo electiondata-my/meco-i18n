@@ -10,6 +10,7 @@
     "no_data_parliament": "{{ name }} tidak pernah bertanding dalam Pilihan Raya bagi kerusi Parlimen",
     "won": "Menang",
     "won_uncontested": "Menang Tanpa Bertanding",
+    "pending": "Akan Datang",
     "lost": "Kalah",
     "lost_deposit": "Hilang Deposit"
 }

@@ -10,6 +10,7 @@
     "no_data_parliament": "{{ name }} has never competed in Parliament elections",
     "won": "Won",
     "won_uncontested": "Won Uncontested",
+    "pending": "Upcoming",
     "lost": "Lost",
     "lost_deposit": "Lost Deposit"
 }
