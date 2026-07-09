@@ -109,6 +109,7 @@
     "majority_perc": "Majoriti (%)",
     "n_candidates": "Calon",
     "voters_total": "Pengundi",
+    "voters_total_v_avg": "x purata",
     "voter_turnout": "Keluar Mengundi",
     "voter_turnout_perc": "Keluar Mengundi (%)",
     "rejected_votes": "Undi Rosak",

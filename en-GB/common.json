@@ -109,6 +109,7 @@
     "majority_perc": "Majority (%)",
     "n_candidates": "Candidates",
     "voters_total": "Electorate",
+    "voters_total_v_avg": "x avg",
     "voter_turnout": "Voter Turnout",
     "voter_turnout_perc": "Voter Turnout (%)",
     "rejected_votes": "Rejected Votes",
