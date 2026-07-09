@@ -21,5 +21,8 @@
     "contested_by": "Ditandingi Oleh",
     "won_by": "Dimenangi Oleh",
     "lost_by": "Tewas",
-    "all_parties": "Semua Parti"
+    "all_parties": "Semua Parti",
+    "live_voter_turnout": "Peratus Keluar (Live)",
+    "live_projection": "Unjuran (Live)",
+    "n_seats_declared": "kerusi diumumkan"
 }

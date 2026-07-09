@@ -21,5 +21,8 @@
     "contested_by": "Contested By",
     "won_by": "Won By",
     "lost_by": "Lost By",
-    "all_parties": "All Parties"
+    "all_parties": "All Parties",
+    "live_voter_turnout": "Live Voter Turnout",
+    "live_projection": "Live Projection",
+    "n_seats_declared": "seats declared"
 }
