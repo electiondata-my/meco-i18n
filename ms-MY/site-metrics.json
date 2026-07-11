@@ -18,7 +18,7 @@
   "chart": {
     "page_views": "Paparan Halaman",
     "queries_built": "Kueri Dibina",
-    "dataset_downloads": "Muat Turun Set Data",
+    "dataset_downloads": "Muat Turun",
     "api_users": "Pengguna API",
     "api_hits": "Permintaan API",
     "data_lake_hits": "Permintaan Data Lake"

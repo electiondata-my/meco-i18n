@@ -18,7 +18,7 @@
   "chart": {
     "page_views": "Page Views",
     "queries_built": "Queries Built",
-    "dataset_downloads": "Dataset Downloads",
+    "dataset_downloads": "Downloads",
     "api_users": "API Users",
     "api_hits": "API Hits",
     "data_lake_hits": "Data Lake Hits"
