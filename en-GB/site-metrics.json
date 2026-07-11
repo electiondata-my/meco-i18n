@@ -6,6 +6,7 @@
   "description": "In line with our commitment to transparency, we publish key usage metrics openly",
   "trend": "Trend",
   "daily": "Today",
+  "yesterday": "Yesterday",
   "total": "Total",
   "loading": "Loading…",
   "no_data": "No data available",
