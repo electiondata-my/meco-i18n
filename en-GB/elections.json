@@ -14,7 +14,7 @@
         "timeseries": "Over Time",
         "map": "Map"
     },
-    "timeseries_note": "Coalitions are as fixed as contested in {{election}} ({{year}}) to ensure comparability across elections.",
+    "timeseries_note": "Coalitions are fixed as contested in {{election}} ({{year}}) to ensure comparability across elections.",
     "summary": "Summary",
     "simple_majority": "112 seats (50%) Simple majority",
     "header_1": "Explore any election from 1955 to the present",
