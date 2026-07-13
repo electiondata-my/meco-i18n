@@ -9,6 +9,11 @@
     "select_election": "Select Election",
     "general_election": "general election",
     "state_election": "state election",
+    "tabs": {
+        "snapshot": "Snapshot",
+        "timeseries": "Compare Elections",
+        "map": "Map"
+    },
     "summary": "Summary",
     "simple_majority": "112 seats (50%) Simple majority",
     "header_1": "Explore any election from 1955 to the present",

@@ -9,6 +9,11 @@
     "select_election": "Pilih PRU/PRN",
     "general_election": "pilihan raya umum",
     "state_election": "pilihan raya negeri",
+    "tabs": {
+        "snapshot": "Rumusan",
+        "timeseries": "Perbandingan",
+        "map": "Peta"
+    },
     "summary": "Ringkasan",
     "simple_majority": "112 kerusi (50%) Majoriti mudah",
     "header_1": "Terokai mana-mana pilihan raya dari 1955 sehingga kini",
