@@ -11,7 +11,7 @@
     "state_election": "state election",
     "tabs": {
         "snapshot": "Snapshot",
-        "timeseries": "Compare Elections",
+        "timeseries": "Over Time",
         "map": "Map"
     },
     "summary": "Summary",

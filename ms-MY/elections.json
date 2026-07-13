@@ -11,7 +11,7 @@
     "state_election": "pilihan raya negeri",
     "tabs": {
         "snapshot": "Rumusan",
-        "timeseries": "Perbandingan",
+        "timeseries": "Siri Masa",
         "map": "Peta"
     },
     "summary": "Ringkasan",
