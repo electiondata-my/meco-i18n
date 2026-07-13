@@ -14,6 +14,7 @@
         "timeseries": "Siri Masa",
         "map": "Peta"
     },
+    "timeseries_note": "Gabungan adalah seperti yang bertanding semasa {{election}} ({{year}}), supaya perbandingan merentas pilihan raya adalah tepat.",
     "summary": "Ringkasan",
     "simple_majority": "112 kerusi (50%) Majoriti mudah",
     "header_1": "Terokai mana-mana pilihan raya dari 1955 sehingga kini",
