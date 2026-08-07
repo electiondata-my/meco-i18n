@@ -114,6 +114,8 @@
     "voter_turnout_perc": "Keluar Mengundi (%)",
     "rejected_votes": "Undi Rosak",
     "rejected_votes_perc": "Undi Rosak (%)",
+    "ballots_not_returned": "Tidak Dikembalikan",
+    "ballots_not_returned_perc": "Tidak Dikembalikan (%)",
     "num_voters": "Bilangan Pengundi",
     "peninsular": "Semenanjung Malaysia",
     "sabah": "Sabah",

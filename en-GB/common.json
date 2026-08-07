@@ -114,6 +114,8 @@
     "voter_turnout_perc": "Voter Turnout (%)",
     "rejected_votes": "Rejected Votes",
     "rejected_votes_perc": "Rejected Votes (%)",
+    "ballots_not_returned": "Unreturned Ballots",
+    "ballots_not_returned_perc": "Unreturned Ballots (%)",
     "num_voters": "Number of voters",
     "peninsular": "Peninsular Malaysia",
     "sabah": "Sabah",
