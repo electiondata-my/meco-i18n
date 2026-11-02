@@ -11,6 +11,8 @@
     "breakdown_voters": "Key demographic features of ",
     "data_as_of": "Data as of GE-15 (2022)",
     "data_as_of_se16": "Data as of SE-16 (2026)",
+    "voters_as_of": "{{voters}} voters as of GE-15 (2022)",
+    "voters_as_of_se16": "{{voters}} voters as of SE-16 (2026)",
     "gender_age_distr": "Voter Pyramid",
     "heatmap_title": "Ethnicity x Age",
     "votertype": "Voter type",

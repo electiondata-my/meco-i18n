@@ -11,6 +11,8 @@
     "breakdown_voters": "Ciri demografi penting bagi ",
     "data_as_of": "Data setakat PRU-15 (2022)",
     "data_as_of_se16": "Data setakat PRN-16 (2026)",
+    "voters_as_of": "{{voters}} pengundi setakat PRU-15 (2022)",
+    "voters_as_of_se16": "{{voters}} pengundi setakat PRN-16 (2026)",
     "gender_age_distr": "Piramid Pengundi",
     "heatmap_title": "Etnik x Umur",
     "votertype": "Jenis Pengundi",
