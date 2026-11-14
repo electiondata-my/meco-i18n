@@ -33,15 +33,15 @@
     "n_seats_declared": "seats declared",
     "live_turnout": {
         "hourly": "Hourly",
-        "by_ethnicity": "By Ethnicity",
+        "by_ethnicity": "By Ethnicity*",
         "now": "Now",
-        "projected": "Projected 18:00",
+        "projected": "Projected (18:00)",
         "ethnic_groups": {
             "malay": "Malay",
             "chinese": "Chinese",
             "indian": "Indian",
             "other": "Other"
         },
-        "ethnicity_note": "Estimated by ecological inference: each polling district's votes are split by the ethnic make-up of its voter roll, then early votes are added back. Projections assume each group's current turnout gap persists. *Other is a small, dispersed group, so its estimate is the least certain."
+        "ethnicity_note": "*Estimated using ecological inference at DM level, exploiting the differing geographic distribution of each ethnic group. 'Other' is a small, dispersed group, so its estimates are least certain."
     }
 }
