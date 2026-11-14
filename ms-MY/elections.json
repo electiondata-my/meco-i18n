@@ -30,5 +30,18 @@
     "all_parties": "Semua Parti",
     "live_voter_turnout": "Peratus Keluar Live",
     "live_projection": "Unjuran Live",
-    "n_seats_declared": "kerusi diumumkan"
+    "n_seats_declared": "kerusi diumumkan",
+    "live_turnout": {
+        "hourly": "Mengikut Jam",
+        "by_ethnicity": "Mengikut Etnik",
+        "now": "Kini",
+        "projected": "Unjuran 18:00",
+        "ethnic_groups": {
+            "malay": "Melayu",
+            "chinese": "Cina",
+            "indian": "India",
+            "other": "Lain-lain"
+        },
+        "ethnicity_note": "Dianggarkan melalui inferens ekologi: undi setiap daerah mengundi dibahagikan mengikut komposisi etnik daftar pemilihnya, kemudian undi awal ditambah semula. Unjuran mengandaikan jurang peratus keluar semasa setiap kumpulan kekal. *Lain-lain ialah kumpulan kecil dan tersebar, jadi anggarannya paling tidak pasti."
+    }
 }
