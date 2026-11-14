@@ -39,9 +39,9 @@
         "ethnic_groups": {
             "malay": "Melayu",
             "chinese": "Cina",
-            "indian": "India",
-            "other": "Lain-lain"
+            "indian": "India"
         },
-        "ethnicity_note": "*Dianggarkan menggunakan inferens ekologi di peringkat DM, berdasarkan perbezaan dalam taburan geografi bagi setiap kumpulan etnik. Anggaran bagi 'Lain-lain' paling tidak pasti kerana kumpulan ini kecil dan tersebar."
+        "share_of_voters": "{{share}} pengundi",
+        "ethnicity_note": "*Dianggarkan menggunakan inferens ekologi di peringkat DM, berdasarkan perbezaan dalam taburan geografi bagi setiap kumpulan etnik. Anggaran bagi 'India' paling tidak pasti kerana kumpulan ini lebih kecil dan tersebar."
     }
 }

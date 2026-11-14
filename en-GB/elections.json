@@ -39,9 +39,9 @@
         "ethnic_groups": {
             "malay": "Malay",
             "chinese": "Chinese",
-            "indian": "Indian",
-            "other": "Other"
+            "indian": "Indian"
         },
-        "ethnicity_note": "*Estimated using ecological inference at DM level, exploiting the differing geographic distribution of each ethnic group. 'Other' is a small, dispersed group, so its estimates are least certain."
+        "share_of_voters": "{{share}} of voters",
+        "ethnicity_note": "*Estimated using ecological inference at DM level, exploiting the differing geographic distribution of each ethnic group. 'Indian' is a smaller, more dispersed group, so its estimates are least certain."
     }
 }
